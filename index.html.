@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Mis 15 Años — Dana Valeria</title>
+
+<style>
+
+body{
+    margin:0;
+    background:#140b0e;
+    color:#f6eddf;
+    font-family:Georgia,serif;
+    text-align:center;
+}
+
+.contenedor{
+    max-width:600px;
+    margin:auto;
+    padding:25px;
+}
+
+.tarjeta{
+    margin-top:40px;
+    padding:40px 20px;
+    background:#f6eddf;
+    color:#42141d;
+    border-radius:25px;
+    box-shadow:0 15px 40px #000;
+}
+
+.dorado{
+    color:#b88a45;
+    letter-spacing:4px;
+}
+
+.numero{
+    font-size:100px;
+    color:#b88a45;
+    margin:15px;
+}
+
+.nombre{
+    font-size:55px;
+    font-style:italic;
+}
+
+.boton{
+    display:block;
+    margin:30px auto;
+    padding:15px;
+    max-width:300px;
+    border-radius:30px;
+    background:#701d2c;
+    color:white;
+    text-decoration:none;
+    font-weight:bold;
+}
+
+.info{
+    margin-top:25px;
+    padding:20px;
+    border-top:1px solid #b88a45;
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="contenedor">
+
+<div class="tarjeta">
+
+<div class="dorado">
+ESTÁS INVITADO A CELEBRAR
+</div>
+
+<div class="numero">
+15
+</div>
+
+<h1 class="nombre">
+Dana Valeria
+</h1>
+
+<p>
+21 de noviembre de 2026
+</p>
+
+<p>
+5:45 PM
+</p>
+
+<a class="boton" href="#reservacion">
+VER MI RESERVACIÓN
+</a>
+
+<div class="info" id="reservacion">
+
+<h2>RESERVACIÓN</h2>
+
+<h2>Miguel H.</h2>
+
+<p>
+5 personas · Mesa 4
+</p>
+
+<a class="boton"
+href="https://forms.google.com/">
+CONFIRMAR ASISTENCIA
+</a>
+
+</div>
+
+<div class="info">
+
+<h2>VESTIMENTA</h2>
+
+<p>
+Formal
+</p>
+
+<p>
+El color rojo está reservado para la quinceañera.
+</p>
+
+</div>
+
+<div class="info">
+
+<h2>CEREMONIA</h2>
+
+<p>
+C. Sabino 188<br>
+Sta. María la Ribera<br>
+Cuauhtémoc, CDMX
+</p>
+
+</div>
+
+<div class="info">
+
+<h2>RECEPCIÓN</h2>
+
+<p>
+C. José Antonio Alzate 116<br>
+Sta. María la Ribera<br>
+Cuauhtémoc, CDMX
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+</body>
+</html>
